@@ -4,9 +4,9 @@ import { validateEmail } from '../../utils/helpers';
 
 function Contact() {
   const [formState, setFormState] = useState({
-    name: '',
-    email: '',
-    message: '',
+    name: 'Taryn Fanning',
+    email: 'taryn.fanning@gmail.com',
+    message: 'Coding is the new gaming.',
   });
 
   const [errorMessage, setErrorMessage] = useState('');

@@ -8,10 +8,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        I am a motivated, entry-level, full-stack web developer looking for opportunities to pursue my passion for technology. I have always been interested in how computers and other technologies work, and I would love nothing more than to continue my education in this field through hands on practice. I recently graduated from both UW-Milwaukee with a BA in Music and from UW-Madison's Extnded Campus Coding Bootcamp. Having experience both with fine arts and with technology gives me a unique outlook that I use for innovative problem solving and excellent communication skills. 
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        I am currently located in Iowa and am willing to travel or work remotely. My latest project has been a video game concept based on Orson Scott Card's "Enders Game", along with a few other one page applications. I also enjoy playing all types of video games and reading as much as I can, when I am not coding for work or leisure. Please feel free to reach out through the links on my contact page with any questions!
         </p>
       </div>
     </section>

@@ -6,34 +6,28 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'social-network-api',
+      description: 'NoSQL',
+      link: "https://drive.google.com/file/d/1dgeSYZAumzgV_4neC4EfgloSDrdrEgIy/view",
+      repo: "https://github.com/tubataryn/social-network-api"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'budget-tracker',
+      description: 'PWA',
+      link: "https://budget-tracker-assignment.herokuapp.com/",
+      repo: "https://github.com/tubataryn/budget-tracker"
     },
     {
       name: 'run-buddy',
       description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://tubataryn.github.io/run-buddy/",
+      repo: "https://github.com/tubataryn/run-buddy"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'find-my-munchies',
+      description: 'HTML/CSS/JavaScript',
+      link: "https://alirueter.github.io/find-my-munchies/",
+      repo: "https://github.com/alirueter/find-my-munchies"
     },
   ]);
 
