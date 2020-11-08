@@ -30,6 +30,9 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.8.0",
-    "@testing-library/react": "^9.5.0"
-  }
+    "@testing-library/react": "^9.5.0",
+    "workbox-build": "^5.1.4"
+  },
+  "build-sw": "node ./src/sw-build.js",
+  "build": "react-scripts build && np run build-sw"
 }

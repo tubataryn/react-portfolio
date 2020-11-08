@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d62fcec5.chunk.css",
+    "main.js": "/static/js/main.970230b5.chunk.js",
+    "main.js.map": "/static/js/main.970230b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.291a5225.js",
+    "runtime-main.js.map": "/static/js/runtime-main.291a5225.js.map",
+    "static/js/2.a94aa41a.chunk.js": "/static/js/2.a94aa41a.chunk.js",
+    "static/js/2.a94aa41a.chunk.js.map": "/static/js/2.a94aa41a.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/main.d62fcec5.chunk.css.map": "/static/css/main.d62fcec5.chunk.css.map",
+    "static/js/2.a94aa41a.chunk.js.LICENSE.txt": "/static/js/2.a94aa41a.chunk.js.LICENSE.txt",
+    "static/media/budget-tracker.jpg": "/static/media/budget-tracker.ab8067ed.jpg",
+    "static/media/cover-image.923d7e14.jpg": "/static/media/cover-image.923d7e14.jpg",
+    "static/media/find-my-munchies.jpg": "/static/media/find-my-munchies.b62efdf1.jpg",
+    "static/media/run-buddy.jpg": "/static/media/run-buddy.b57f2b88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291a5225.js",
+    "static/js/2.a94aa41a.chunk.js",
+    "static/css/main.d62fcec5.chunk.css",
+    "static/js/main.970230b5.chunk.js"
+  ]
+}
